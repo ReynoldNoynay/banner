@@ -25,9 +25,9 @@ html {
 }
 
 .banner {
-
+  position: absolute;
 }
 
 .banner-content {
-
+  position: relative;
 }
